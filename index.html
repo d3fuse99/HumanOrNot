@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Messenger</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="user-info">
+            <div class="avatar">?</div>
+            <div class="meta">
+                <div class="username">Entity Test</div>
+                <div class="status" id="timer">05:00</div>
+            </div>
+        </div>
+        <div class="header-right">
+            <select id="lang-select" onchange="changeLanguage()">
+                <option value="ru">RU</option>
+                <option value="en">EN</option>
+            </select>
+            <button class="ans-btn" id="ans-btn" onclick="openModal()">ВЕРДИКТ</button>
+        </div>
+    </div>
+
+    <div id="chat-container"></div>
+
+    <div id="footer">
+        <div id="options-grid"></div>
+    </div>
+
+    <div id="overlay" class="overlay">
+        <div class="modal">
+            <h2 id="modal-title">КТО БЫЛ ЧЕЛОВЕКОМ?</h2>
+            <div class="modal-btns">
+                <button onclick="checkResult('botA')">ENTITY A</button>
+                <button onclick="checkResult('botB')">ENTITY B</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="result-screen" class="result-screen">
+        <h1 id="result-title"></h1>
+        <p id="result-desc"></p>
+        <button class="retry-btn" id="retry-btn" onclick="location.reload()">ЗАНОВО</button>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
