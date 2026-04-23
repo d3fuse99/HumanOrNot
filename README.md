@@ -1,5 +1,6 @@
 # **Project VOID**
-<img width="2551" height="1353" alt="image" src="https://github.com/user-attachments/assets/a68815bc-9756-47d8-ba25-4f43701c1d64" />
+<img width="2553" height="1339" alt="image" src="https://github.com/user-attachments/assets/707dcd1a-4173-4a25-8ba8-c2dfbd8c0508" />
+
 
 **Project VOID** is a high-performance, real-time Turing Test dashboard simulation. It is designed to visualize linguistic patterns, analyze communication threats, and demonstrate automated human-emulation countermeasures in a clean messenger interface.
 
