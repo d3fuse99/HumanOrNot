@@ -1,8 +1,9 @@
-# **Project VOID**
+# **Project HumanOrNot**
+the dialogues are crooked)
 <img width="2553" height="1339" alt="image" src="https://github.com/user-attachments/assets/707dcd1a-4173-4a25-8ba8-c2dfbd8c0508" />
 
 
-**Project VOID** is a high-performance, real-time Turing Test dashboard simulation. It is designed to visualize linguistic patterns, analyze communication threats, and demonstrate automated human-emulation countermeasures in a clean messenger interface.
+**Project HumanOrNot** is a high-performance, real-time Turing Test dashboard simulation. It is designed to visualize linguistic patterns, analyze communication threats, and demonstrate automated human-emulation countermeasures in a clean messenger interface.
 
 Built with a focus on psychological immersion and logic branching, this tool allows users to observe how a modern SOC environment identifies and mitigates social engineering through automated linguistic analysis.
 
