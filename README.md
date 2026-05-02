@@ -1,5 +1,5 @@
 # **Project HumanOrNot**
-the dialogues are crooked)
+dialogues are very stupid)
 <img width="2553" height="1339" alt="image" src="https://github.com/user-attachments/assets/707dcd1a-4173-4a25-8ba8-c2dfbd8c0508" />
 
 
